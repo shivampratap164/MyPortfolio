@@ -1,5 +1,5 @@
 import { AiFillAppstore } from "react-icons/ai";
-import { FaHtml5, FaGlobe,FaLinkedinIn ,FaCss3Alt ,FaReact,FaBootstrap ,FaFigma} from "react-icons/fa";
+import { FaHtml5, FaGlobe,FaLinkedinIn ,FaCss3Alt ,FaReact,FaBootstrap ,FaFigma,FaNode} from "react-icons/fa";
 import { SiProgress, SiAntdesign } from "react-icons/si";
 import { SiTailwindcss, SiNextdotjs,SiMysql,SiMongodb } from "react-icons/si";
 import { MdHtml,MdCss } from "react-icons/md";
@@ -57,7 +57,7 @@ export const featuresData = [
     des: (
       <div className="flex gap-4">
       <span className="bannerIcon">
-      <SiNextdotjs /> 
+      <FaNode /> 
       </span> 
       <span className="bannerIcon">
       

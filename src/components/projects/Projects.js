@@ -45,7 +45,7 @@ const Projects = () => {
          "
           src={projectThree}
           githubLink="https://github.com/shivampratap164/MyPortfolio.git"
-          liveLink="shivampratap54451@gmail.com"
+          liveLink="https://my-portfolio-ebon-delta-82.vercel.app/"
         />
         {/* <ProjectsCard
           title="E-commerce Website"
